@@ -1,5 +1,5 @@
 # Big Data Time Series Analysis
 
-This repository contains code for some basic Exploratory Data Analysis of Telecom Italia Big Data Challenge dataset - Telecommunication dataset.
+This repository contains code for some basic Exploratory Data Analysis of Telecom Italia Big Data Challenge dataset - Telecommunication Activity (Milan).
 
-The analysis and forecasting has been carried-out as a part of initial screening process for an application. The tasks can be be viewed in the file "assignment.pdf" and the report of the findings and predictions can be viewed in "Report_Sudharshan_PJ.pdf".
+The analysis and forecasting has been carried-out as a part of initial screening of XXXXX application. The tasks can be be viewed in the file "assignment.pdf" and the report of the findings, predictions can be viewed in "Report_Sudharshan_PJ.pdf".
