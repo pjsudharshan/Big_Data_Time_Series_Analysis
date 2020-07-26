@@ -1,4 +1,4 @@
-# Big Data Time Series Analysis and forecasting
+# Big Data Time Series Analysis and Forecasting
 
 This repository contains code for some basic Exploratory Data Analysis on Telecom Italia Big Data Challenge dataset - Telecommunication Activity (Milan).
 
